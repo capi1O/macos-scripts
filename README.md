@@ -1,4 +1,4 @@
-Set of scripts for mac power users. 
+Set of scripts for mac power users.
 
 - add cut/paste functionality to macOS Finder with standard keyboard shortcuts (cmd-X cmd-V).
 - add launch terminal here.
@@ -32,6 +32,19 @@ Those applescripts are made to be used with FastScripts, by assigning cmd-C cmd-
 
 ## TODO
 
+### cut/paste
+
+should not cmd-cut when selecting text and cuting/copying.
+
+
 ### mouse-watcher.py
 	- replace NSEventMask constants by type properties https://developer.apple.com/reference/appkit/nseventmask
 	- disable paste on defined areas : in Finder folder view, text fields... For example in Finder it should not paste inactive directory if middle-clicking a favourite folder in sidebar
+	
+### duplicate real
+
+- support directories
+
+### make symlink
+
+- support directories
